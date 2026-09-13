@@ -2,7 +2,7 @@
 
 [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/OrangeNekoo/CC2530_HomeFireAlarmSystem)
 
-[简体中文](README.md) | [English](README.en.md)
+[简体中文] | [English](README.en.md)
 
 基于 TI CC2530 的三节点无线家庭火灾监测系统。系统将主节点、温湿度节点和有害气体节点组成一个独立的 RF 传感网络：终端节点负责采集数据，主节点负责集中判定报警并广播状态，PC 端通过串口桥接服务将数据送入浏览器上位机。
 
