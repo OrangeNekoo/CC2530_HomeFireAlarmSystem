@@ -13,3 +13,4 @@ __pycache__/
 *.wsdt
 /.playwright-cli/
 .superpowers/
+/.vscode
