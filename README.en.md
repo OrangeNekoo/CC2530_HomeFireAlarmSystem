@@ -1,5 +1,7 @@
 # Home Fire Alarm System
 
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/OrangeNekoo/CC2530_HomeFireAlarmSystem)
+
 [简体中文](README.md) | [English](README.en.md)
 
 A three-node wireless home fire monitoring system built on TI CC2530. The system combines a master node, a temperature/humidity node, and a hazardous-gas node into an independent RF sensor network. End nodes collect measurements, the master node makes the alarm decision and broadcasts the state, and a PC bridge exposes the data to a browser console.
